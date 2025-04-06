@@ -8,61 +8,69 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>About Me</b>
 
-- 🎓 Currently pursuing a Master's in Data Science for Decision Making @ Barcelona School of Economics  
-- 🧠 Data Scientist with experience in Credit Risk, IFRS9 models, and ML apps (Python, PySpark, SQL)
-- 💼 Previously @ BBVA & Interbank as Data Scientist & Risk Model Analyst
-- 👨‍🏫 Teaching Intro to Macroeconomics & Advanced Microeconomics @ Universidad Peruana de Ciencias Aplicadas 🇵🇪
-- ⚙️ Passionate about building robust, interpretable, and scalable models
-- 📊 Projects in Machine Learning, NLP, IFRS9 parameters, and Scoring Models
-- 🌍 Always open to collaboration and learning from others!
+### 🎓 Education
+- **MSc in Data Science for Decision Making**: @ Barcelona School of Economics
+- **BSc in Economics & Finance**: @ Universidad Peruana de Ciencias Aplicadas
 
-## 🚀 Tech Stack & Tools
+### 💼 Professional Experience
+**Banking Data Scientist**  
+- **BBVA**: Validated and implemented robust credit risk modeling (IFRS9) & scoring systems
+- **Interbank**: ML models for credit decisions in retail division
 
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+**Professor of Economics**  
+- **Universidad Peruana de Ciencias Aplicadas**: Microeconomics & Macroeconomics
 
-### 🔧 Frameworks & Tools  
-![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+### 🏆 Key Projects
 
-### ☁️ Cloud & Platforms  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-E67225?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🧠 ML & Data Tools  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
+- **IFRS9 Modeling**: PD/LGD/EAD estimation for BBVA  
+- **NLP Reviews**: 50K+ booking.com reviews analysis [GitHub](https://github.com/Enzo280100)
+- **Income Engine**: PySpark models for credit scoring
+  
 ---
 
-## 📫 Let's Connect!
+## 🚀 Tech Stack 
 
-- 🌐 [Portfolio Website](https://yourwebsite.com) *(if available)*
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-infantes/)
-- 💻 [GitHub](https://github.com/enzo-infantes)
-- <p><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></p>
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzo.infantes28@gmail.com)
+### 💻 Programming Languages & Tools 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![Stata](https://img.shields.io/badge/Stata-1E5F8B?style=for-the-badge&logo=stata&logoColor=white) ![VBA](https://img.shields.io/badge/Excel(VBA)-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 📊 Data Science & ML
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+
+
+### 🔧 Frameworks  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+### ☁️ Cloud & Platforms 
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-E67225?style=for-the-badge&logo=databricks&logoColor=white)
+
+### 📝 Documentation 
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🌐 Profiles & Projects
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/enzoinfantesbse) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/enzo-infantes)
+  
+---
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-infantes/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-enzo.infantes28@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red)](mailto:enzo.infantes28@gmail.com)
 
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>Github Stats</b>
 
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api?username=sarath-pm&theme=tokyonight&show_icons=true/460/300">
-
-<p><img width="460" height="150" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarath-pm&show_icons=true&locale=en&layout=compact&theme=tokyonight"/460/300"></p>
-
-<p><img width="460" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=sarath-pm&theme=tokyonight&&fire=FF801F&currStreakNum=FFBE69&currStreakLabel=FFBE69"/460/300"></p>
-
-<br>
-
-## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enzo-infantes&show_icons=true&theme=radical" alt="enzo-infantes" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzo-infantes&layout=compact&theme=radical" alt="top-langs"/>
+  <a href="https://github.com/Enzo280100">
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=Enzo280100&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
+    <img width="320" src="https://github-readme-streak-stats.herokuapp.com/?user=Enzo280100&theme=tokyonight&fire=FF801F&currStreakNum=FFBE69&hide_border=true">
+  </a>
 </p>
 
----
-
-_“Great developers never stop learning.”_ 💡
+<p align="center">
+  <a href="https://github.com/Enzo280100?tab=repositories">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo280100&theme=tokyonight&layout=compact&langs_count=8&hide_border=true&exclude_repo=github-readme-stats">
+  </a>
+</p>
 
 -----
-Credits: [Sarath P M](https://github.com/sarath-pm)
-Last Edited on: 10/07/2022
