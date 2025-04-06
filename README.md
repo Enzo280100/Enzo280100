@@ -17,9 +17,6 @@
 - **BBVA**: Validated and implemented robust credit risk modeling (IFRS9) & scoring systems
 - **Interbank**: ML models for credit decisions in retail division
 
-**Professor of Economics**  
-- **Universidad Peruana de Ciencias Aplicadas**: Microeconomics & Macroeconomics
-
 ### 🏆 Key Projects
 
 - **IFRS9 Modeling**: PD/LGD/EAD estimation for BBVA  
