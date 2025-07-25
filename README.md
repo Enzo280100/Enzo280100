@@ -13,16 +13,16 @@
 - **BSc in Economics & Finance**: @ Universidad Peruana de Ciencias Aplicadas
 
 ### 💼 Professional Experience
-**Banking Data Scientist**  
+**Data Scientist**  
 - **BBVA**: Validated and implemented robust credit risk modeling (IFRS9) & scoring systems
 - **Interbank**: ML models for credit decisions in retail division
 
 ### 🏆 Key Projects
 
 - **IFRS9 Modeling**: PD/LGD/EAD estimation for BBVA  
+- **Credit Card Admission Model**: Scoring model  (LightGBM) for the credit card product
 - **NLP Reviews**: 50K+ booking.com reviews analysis [GitHub](https://github.com/Enzo280100)
-- **Income Engine**: PySpark models for credit scoring
-  
+- **LLMs**: Financial sentiment classification with LLM models (BERT, FinBERT, TinyLlama, Zero-Shot Learning) [GitHub](https://github.com/victorsobottka/nlp_finalproject_2025/tree/main)
 ---
 
 ## 🚀 Tech Stack 
